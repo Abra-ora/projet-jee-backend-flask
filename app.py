@@ -1,4 +1,3 @@
-from unicodedata import name
 from flask import Flask, jsonify
 from flask_mongoengine import MongoEngine
 from flask_cors import CORS
